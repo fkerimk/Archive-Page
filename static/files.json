@@ -1,0 +1,52 @@
+{
+  "previewable_types": [
+    ".md",
+    ".py",
+    ".js",
+    ".css",
+    ".html",
+    ".json",
+    ".sh",
+    ".bat",
+    ".cmd",
+    ".txt",
+    ".log",
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".webp",
+    ".svg",
+    ".apng",
+    ".ico",
+    ".mp4",
+    ".webm",
+    ".mp3",
+    ".wav",
+    ".ogg",
+    ".m4a",
+    ".flac",
+    ".opus",
+    ".pdf",
+    ".glb"
+  ],
+  "items": [
+    {
+      "name": "welcome.md",
+      "path": "welcome.md",
+      "is_dir": false,
+      "type": "md",
+      "ext": ".md",
+      "size": "25.0 B",
+      "tags": [
+        "Awesome Tag",
+        "Epic Tag"
+      ],
+      "source_archive": "welcome.md.tar.xz",
+      "source_archive_size": "240.0 B",
+      "has_details": true,
+      "details_content": "Go to [root](./)",
+      "img_resolution": null
+    }
+  ]
+}

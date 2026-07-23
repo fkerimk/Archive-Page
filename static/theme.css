@@ -1,0 +1,34 @@
+:root {
+
+    --background: #121212;
+    --foreground: #1e1e1e;
+    --border: #333333;
+
+    --primary: #b5c2ff;
+    --secondary: #4e4e4e;
+
+    --text-primary: #e0e0e0;
+    --text-secondary: #1e1e1e;
+
+    --dir: var(--primary);
+    --img: #82e185;
+    --vid: #ed6258;
+    --aud: #60b1f3;
+    --txt: var(--text-primary);
+    --scr: #fdb548;
+    --zip: #e57349;
+    --pdf: #d65480;
+    --m3d: #75dbe9;
+    --nan: var(--text-primary);
+
+    --source: #e279ff;
+    --details: #4ecdff;
+
+    --dim: 0.25;
+    --hover-dim: 0.75;
+
+    --sb-width: 320px;
+
+    --tag-epic-tag: #e269f8;
+    --tag-awesome-tag: #ffe81b;
+}
