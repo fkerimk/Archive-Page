@@ -11,6 +11,8 @@ To add tags to your file, simply add a `.tags` file with the same name; to add a
 
 For example, you can take a look at [welcome.md](./root/welcome.md).
 
-
 > [!NOTE]  
 > Don't forget to run `python build.py` every time you update a file, tag, source, or detail!
+
+## Preview
+<img height="256" alt="archive-page" src="https://github.com/user-attachments/assets/68f4e92b-d012-4d62-b9e6-ac1aac351002" />
